@@ -68,10 +68,3 @@ cd cst-field-array-analysis
 pip install -r requirements.txt
 
 ```
-
-### Usage
-
-```bash
-python parse_field_data.py --input "E field.txt" --z-slice -31.7089
-
-```
